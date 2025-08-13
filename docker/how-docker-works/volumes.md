@@ -4,4 +4,4 @@ A Docker Volumes is a persistent data storage mechanism that allows data to shar
 
 
 
-It ensures data durability and persistance even if the container is stopped working
+It ensures data durability and persistance even if the container is stopped working.

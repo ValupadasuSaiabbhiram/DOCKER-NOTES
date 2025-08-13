@@ -1,6 +1,6 @@
 # Containers
 
-Docker Container is a runnable instance of docker image
+Docker Container is a runnable instance of docker image.
 
 It represents Execution Environment for a specific application including
 
@@ -9,5 +9,5 @@ It represents Execution Environment for a specific application including
 3. System tools
 4. Libraries&#x20;
 
-in a Docker Image
+in a Docker Image.
 
