@@ -21,8 +21,14 @@ create a new Dockerfile
 
 Now, Run the command
 
-\>docker build -t  hello-world .
+> docker build -t  hello-world .
 
 where t stands for tag (optional).
 
 next the path to docker file
+
+
+
+To check the image is created successfully or not type:
+
+> docker images
